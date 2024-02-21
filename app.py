@@ -4,7 +4,6 @@ import pandas as pd
 import joblib
 
 app = FastAPI()
-
 class cdf(BaseModel):
      InvoiceNo: int
      StockCode: str 
@@ -14,9 +13,7 @@ class cdf(BaseModel):
      UnitPrice: int 
      CustomerID: int 
      Country: str 
-
-
-     
+   
 class RFMInput(BaseModel):
     Recency: int
     Frequency: int
