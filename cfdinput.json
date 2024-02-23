@@ -1,0 +1,10 @@
+{
+  "InvoiceNo": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+  "StockCode": ["A1", "A2", "B1", "A1", "B2", "A2", "B1", "A2", "B2"],
+  "Description": ["Product A", "Product B", "Product C", "Product A", "Product D", "Product B", "Product C", "Product B", "Product D"],
+  "Quantity": [10, 5, 8, 12, 6, 9, 15, 7, 10],
+  "InvoiceDate": ["2022-01-01", "2022-01-05", "2022-01-10", "2022-02-01", "2022-02-05", "2022-02-10", "2022-03-01", "2022-03-05", "2022-03-10"],
+  "UnitPrice": [5, 8, 10, 6, 12, 7, 8, 9, 11],
+  "CustomerID": [1, 1, 1, 1, 1, 1, 1, 1, 1],
+  "Country": ["USA", "UK", "USA", "Canada", "UK", "USA", "Canada", "UK", "Canada"]
+}
