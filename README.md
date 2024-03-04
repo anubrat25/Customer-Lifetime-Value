@@ -1,1 +1,1 @@
-This is a Customer lifetime value presinction system. 
+This is a Customer lifetime value prediction system. 
