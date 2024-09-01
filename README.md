@@ -1,1 +1,1 @@
-This is a Customer lifetime value presinction system. This is for our DBS project. 
+Developed a FastAPI application for customer lifetime value (CLV) prediction using a pre-trained random forest model. The app includes endpoints to process customer data and calculate RFM (Recency, Frequency, Monetary) metrics from transaction records. The predict endpoint uses these metrics to generate CLV predictions, while the calculate endpoint provides RFM values directly. Data is processed using pandas, and exceptions are handled to ensure robustness.
